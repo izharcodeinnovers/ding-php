@@ -7,7 +7,7 @@ The Ding PHP library provides convenient access to the Ding API from application
 ## Composer
 
 ```bash
-composer require "ding/sdk"
+composer require ding-live/ding-php
 ```
 
 <!-- End SDK Installation -->
